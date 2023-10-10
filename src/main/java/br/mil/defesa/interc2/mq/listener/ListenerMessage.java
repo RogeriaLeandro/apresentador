@@ -1,6 +1,6 @@
 package br.mil.defesa.interc2.mq.listener;
 
-import br.mil.defesa.interc2.apresentador.MessageDTO;
+import br.mil.defesa.apresentador.MessageDTO;
 import br.mil.defesa.interc2.mq.service.ListenerService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

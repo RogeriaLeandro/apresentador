@@ -1,11 +1,9 @@
-package br.mil.defesa.interc2.apresentador;
+package br.mil.defesa.apresentador;
 
-import lombok.Builder;
 import lombok.Data;
 import lombok.ToString;
 
 @Data
-@Builder
 @ToString
 public class MessageDTO {
 

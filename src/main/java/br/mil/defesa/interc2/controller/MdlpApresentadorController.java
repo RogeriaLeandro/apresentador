@@ -1,7 +1,6 @@
 package br.mil.defesa.interc2.controller;
 
-import br.mil.defesa.interc2.apresentador.MessageDTO;
-import org.springframework.amqp.core.Message;
+import br.mil.defesa.apresentador.MessageDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

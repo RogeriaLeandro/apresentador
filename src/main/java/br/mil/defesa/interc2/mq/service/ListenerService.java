@@ -1,6 +1,6 @@
 package br.mil.defesa.interc2.mq.service;
 
-import br.mil.defesa.interc2.apresentador.MessageDTO;
+import br.mil.defesa.apresentador.MessageDTO;
 import com.google.gson.Gson;
 import org.springframework.beans.factory.annotation.Autowired;
 

@@ -1,4 +1,4 @@
-package br.mil.defesa.interc2.apresentador;
+package br.mil.defesa.apresentador;
 
 public enum TipoMDLP {
 
